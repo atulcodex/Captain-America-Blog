@@ -1,0 +1,197 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+
+#top #par
+{
+	width: 98.5%;
+	height: 40px;
+	text-align: center;
+	background-color: lightseagreen;
+	padding-top: 5px;
+	padding-left: 20px;
+	font-family: 'Patua One', cursive;
+}
+
+#header
+{
+	width: 100%;
+	height:200px; 
+	float: justify;
+	padding-left:0;
+}
+
+#search
+{
+	line-height: 3em;
+	height: 50px;
+	width: 20%;
+	float: right;
+	background-color: lightseagreen;
+}
+
+#search ul
+{	
+	animation-timing-function: 2;
+}
+
+#menu ul
+{
+	padding: 0;
+	margin: 0;
+	line-height: 3em;
+	width: 80%;
+	height: 50px;
+	float: left;
+	background-color: lightseagreen;
+}
+
+#menu ul li
+{
+	padding: 20px;
+	margin-top: 20px;
+	width: 80%;
+	text-decoration: none;
+	list-style: none;
+	display: inline;
+	font-family: 'Black Han Sans', sans-serif;
+}
+
+#menu ul li a:link
+{
+	color: black;
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Black Han Sans', sans-serif;
+}
+
+#menu ul li a:hover
+{
+	color: black;
+	text-decoration: underline;
+	font-family: 'Black Han Sans', sans-serif;
+}
+
+#body
+{	
+	float: left;
+	width: 940px;
+	padding-left: 2px;
+}
+
+#body h2
+{
+	font-family: 'Cabin', sans-serif;
+	text-decoration: none;
+	color: black;
+}
+
+#body h2 a:link
+{
+	font-family: 'Cabin', sans-serif;
+	text-decoration: none;
+	color: black;
+}
+
+#body h2 a:hover
+{
+	font-family: 'Cabin', sans-serif;
+	text-decoration: none;
+	color: lightseagreen;
+}
+
+#body p 
+{
+	font-family: 'Sunflower', sans-serif;
+	font-style: italic;
+	padding-left: 5px;
+	padding-right: 20px;
+}
+
+#body h3
+{
+	font-family: 'Arimo', sans-serif;
+}
+
+#body img
+{
+	height: 400px;
+	width: 900px;
+	padding-left: 5px;
+	margin: 2px;
+}
+
+#body p a:link
+{
+	color: lightseagreen;
+	font-family: 'Black Han Sans', sans-serif;
+}
+
+#sidebar
+{
+	width: 405px;
+	float: right;
+}
+
+#sidebar h3
+{
+	font-family: 'Black Han Sans', sans-serif;
+}
+
+#sidebar h4
+{
+	font-family: 'Arimo', sans-serif;
+	float: right;
+	padding-top: 0;
+}
+
+#sidebar a:link
+{
+	padding-left: 20px;
+}
+
+#sidebar table tr td a:link
+{
+	text-decoration: none;
+	color: black;
+}
+
+#sidebar table tr td a:hover
+{
+	color: lightseagreen;
+}
+
+#foot
+{	
+	margin-top: 20px; 
+	padding-bottom: 0;
+	width: 100%;
+	background-color: lightgrey;
+	height: 70px;
+	clear: both;
+}
+#foot h4
+{
+	padding-top: 20px;
+	font-family: 'Cabin', sans-serif;
+}
+
+#foot h4 a:link
+{
+	color: black;
+	text-decoration: none;
+}
+
+#foot h4 a:hover
+{
+	color: lightseagreen;
+	text-decoration: underline;
+}
+
+#foot p 
+{
+	padding-right: 28px;
+	padding-bottom: 30px;
+}
